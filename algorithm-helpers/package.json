@@ -1,0 +1,13 @@
+{
+  "name": "@satyajit5007/algorithm-helpers",
+  "version": "1.0.0",
+  "description": "A collection of algorithm implementations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords":["algorithm", "binary search", "sort", "search", "factorial"],
+  "author": "satyajit5007",
+  "license": "MIT"
+
+}

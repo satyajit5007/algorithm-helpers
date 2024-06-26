@@ -1,0 +1,22 @@
+{
+  "name": "algorithm-helpers",
+  "version": "1.0.1",
+  "description": "Algo Tools is a collection of JavaScript algorithms for common programming tasks, including binary search, Kadane's algorithm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "binary",
+    "search",
+    "algorithms",
+    "Kadane's",
+    "algorithm",
+    "JavaScript",
+    "optimization"
+  ],
+  "author": "Amanulla Iqbal Mulla",
+  "license": "ISC"
+}
